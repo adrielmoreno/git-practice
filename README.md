@@ -1,7 +1,7 @@
 # git-practice
 Practice using Git by Bootcamp keepcoding
 
-# Solution
+### solution to exercise 1
 01 - ¿Qué comando utilizaste en el **paso 11**? ¿Por qué?
 
 `git reset --hard HEAD~1`
@@ -68,3 +68,22 @@ No hubo conflicto, solo se agregaron modificaciones.
 13 - ¿Qué comando o comandos usaste en el **punto 33**?
 
 `git reset --hard a7a726a`
+
+### solution to exercise 2
+
+Repo origin:
+https://github.com/kasappeal/nerdquotes
+
+Repo fork:
+https://github.com/adrielmoreno/eje2-nerdquotes
+
+added to repo:
+
+```
+-------
+
+> No sólo del commit vivirá el DevOp...
+
+*MorenoCreativo*
+
+```
